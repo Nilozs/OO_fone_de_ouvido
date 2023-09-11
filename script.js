@@ -45,3 +45,6 @@ x.DefinirCor('azul')
 x.DefinirTamanho('5cm')
 
 console.log(x.TodosAtributos());
+
+
+//Treinando Orientação de objeto - Pilar da abstração
