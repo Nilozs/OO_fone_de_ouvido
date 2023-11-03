@@ -48,3 +48,4 @@ console.log(x.TodosAtributos());
 
 
 //Treinando Orientação de objeto - Pilar da abstração
+//utilizar o console para realizar o teste
